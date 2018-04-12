@@ -1,0 +1,1087 @@
+token Hospital NNP -1 ROOT e-AGENT
+token said VBD -1 ROOT o
+token it PRP -1 ROOT o
+token would MD -1 ROOT b-DSE
+token probably RB -1 ROOT m-DSE
+token know VB -1 ROOT e-DSE
+token by IN -1 ROOT o
+token Tuesday NNP -1 ROOT o
+token whether IN -1 ROOT b-TARGET
+token one CD -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token its PRP$ -1 ROOT m-TARGET
+token patients NNS -1 ROOT m-TARGET
+token had VBD -1 ROOT m-TARGET
+token Congo NNP -1 ROOT m-TARGET
+token Fever NNP -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 3 8 1 AGENT-DSE
+rel 8 18 -1 TARGET-DSE
+
+token A DT -1 ROOT o
+token set NN -1 ROOT o
+token of IN -1 ROOT o
+token tests NNS -1 ROOT o
+token specifically RB -1 ROOT o
+token for IN -1 ROOT o
+token Congo NNP -1 ROOT o
+token fever NN -1 ROOT o
+token were VBD -1 ROOT o
+token still RB -1 ROOT o
+token outstanding JJ -1 ROOT o
+token . . -1 ROOT o
+
+token Saeed NNP -1 ROOT s-AGENT
+token said VBD -1 ROOT s-DSE
+token indications NNS -1 ROOT o
+token were VBD -1 ROOT o
+token that IN -1 ROOT o
+token those DT -1 ROOT b-TARGET
+token tests NNS -1 ROOT e-TARGET
+token would MD -1 ROOT o
+token be VB -1 ROOT o
+token negative JJ -1 ROOT o
+token too RB -1 ROOT o
+token . . -1 ROOT o
+rel 0 1 1 AGENT-DSE
+rel 1 6 -1 TARGET-DSE
+
+token Saeed NNP -1 ROOT s-AGENT
+token said VBD -1 ROOT s-DSE
+token indications NNS -1 ROOT o
+token were VBD -1 ROOT o
+token that IN -1 ROOT o
+token those DT -1 ROOT b-TARGET
+token tests NNS -1 ROOT e-TARGET
+token would MD -1 ROOT o
+token be VB -1 ROOT o
+token negative JJ -1 ROOT o
+token too RB -1 ROOT o
+token . . -1 ROOT o
+rel 0 1 1 AGENT-DSE
+rel 1 6 -1 TARGET-DSE
+
+token He PRP -1 ROOT s-AGENT
+token said VBD -1 ROOT o
+token it PRP -1 ROOT o
+token was VBD -1 ROOT o
+token his PRP$ -1 ROOT b-DSE
+token opinion NN -1 ROOT e-DSE
+token that IN -1 ROOT o
+token the DT -1 ROOT b-TARGET
+token patient NN -1 ROOT m-TARGET
+token -- : -1 ROOT m-TARGET
+token a DT -1 ROOT m-TARGET
+token woman NN -1 ROOT e-TARGET
+token -- : -1 ROOT o
+token was VBD -1 ROOT o
+token suffering VBG -1 ROOT o
+token from IN -1 ROOT o
+token tick NN -1 ROOT o
+token bite NN -1 ROOT o
+token fever NN -1 ROOT o
+token . . -1 ROOT o
+rel 0 5 1 AGENT-DSE
+rel 5 11 -1 TARGET-DSE
+
+token The DT -1 ROOT o
+token two CD -1 ROOT o
+token have VBP -1 ROOT o
+token similar JJ -1 ROOT o
+token symptoms NNS -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT b-AGENT
+token woman NN -1 ROOT e-AGENT
+token was VBD -1 ROOT o
+token admitted VBN -1 ROOT o
+token to TO -1 ROOT o
+token the DT -1 ROOT o
+token hospital NN -1 ROOT o
+token on IN -1 ROOT o
+token Saturday NNP -1 ROOT o
+token after IN -1 ROOT o
+token complaining VBG -1 ROOT s-DSE
+token of IN -1 ROOT o
+token severe JJ -1 ROOT b-TARGET
+token joint JJ -1 ROOT m-TARGET
+token pains NNS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 1 10 1 AGENT-DSE
+rel 10 14 -1 TARGET-DSE
+
+token She PRP -1 ROOT o
+token also RB -1 ROOT o
+token had VBD -1 ROOT o
+token a DT -1 ROOT o
+token skin NN -1 ROOT o
+token rash NN -1 ROOT o
+token and CC -1 ROOT o
+token was VBD -1 ROOT o
+token vomiting JJ -1 ROOT o
+token . . -1 ROOT o
+
+token Ramsamy NNP -1 ROOT s-AGENT
+token also RB -1 ROOT o
+token condemned VBD -1 ROOT s-DSE
+token last JJ -1 ROOT b-TARGET
+token Tuesday NNP -1 ROOT m-TARGET
+token 's POS -1 ROOT m-TARGET
+token terror NN -1 ROOT m-TARGET
+token attacks NNS -1 ROOT m-TARGET
+token in IN -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token United NNP -1 ROOT m-TARGET
+token States NNPS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 0 2 1 AGENT-DSE
+rel 2 11 -1 TARGET-DSE
+
+token `` `` -1 ROOT o
+token The DT -1 ROOT b-AGENT
+token SADC NNP -1 ROOT m-AGENT
+token secretariat NN -1 ROOT e-AGENT
+token condemns VBZ -1 ROOT b-DSE
+token unreservedly RB -1 ROOT m-DSE
+token and CC -1 ROOT m-DSE
+token in IN -1 ROOT m-DSE
+token the DT -1 ROOT m-DSE
+token strongest JJS -1 ROOT m-DSE
+token terms NNS -1 ROOT e-DSE
+token this DT -1 ROOT b-TARGET
+token act NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token terrorism NN -1 ROOT e-TARGET
+token , , -1 ROOT o
+token '' '' -1 ROOT o
+token he PRP -1 ROOT o
+token said VBD -1 ROOT o
+token . . -1 ROOT o
+rel 3 10 1 AGENT-DSE
+rel 10 14 -1 TARGET-DSE
+
+token Replying VBG -1 ROOT o
+token , , -1 ROOT o
+token Lange NNP -1 ROOT s-AGENT
+token said VBD -1 ROOT s-DSE
+token : : -1 ROOT o
+token `` `` -1 ROOT o
+token The DT -1 ROOT o
+token day NN -1 ROOT o
+token September NNP -1 ROOT o
+token 11 CD -1 ROOT o
+token , , -1 ROOT o
+token 2001 CD -1 ROOT o
+token has VBZ -1 ROOT o
+token become VBN -1 ROOT o
+token one CD -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token worst JJS -1 ROOT o
+token days NNS -1 ROOT o
+token in IN -1 ROOT o
+token American JJ -1 ROOT o
+token history NN -1 ROOT o
+token . . -1 ROOT o
+rel 2 3 1 AGENT-DSE
+
+token `` `` -1 ROOT o
+token It PRP -1 ROOT o
+token was VBD -1 ROOT o
+token not RB -1 ROOT o
+token only RB -1 ROOT o
+token an DT -1 ROOT o
+token attack NN -1 ROOT o
+token on IN -1 ROOT o
+token our PRP$ -1 ROOT o
+token global JJ -1 ROOT o
+token village NN -1 ROOT o
+token , , -1 ROOT o
+token but CC -1 ROOT o
+token the DT -1 ROOT o
+token foundations NNS -1 ROOT o
+token of IN -1 ROOT o
+token democracy NN -1 ROOT o
+token . . -1 ROOT o
+
+token We PRP -1 ROOT s-AGENT
+token are VBP -1 ROOT o
+token grateful JJ -1 ROOT s-DSE
+token for IN -1 ROOT o
+token the DT -1 ROOT b-TARGET
+token strong JJ -1 ROOT m-TARGET
+token support NN -1 ROOT m-TARGET
+token expressed VBN -1 ROOT m-TARGET
+token by IN -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token international JJ -1 ROOT m-TARGET
+token community NN -1 ROOT m-TARGET
+token , , -1 ROOT m-TARGET
+token particularly RB -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token SADC NNP -1 ROOT m-TARGET
+token member NN -1 ROOT m-TARGET
+token states VBZ -1 ROOT e-TARGET
+token . . -1 ROOT o
+token '' '' -1 ROOT o
+rel 0 2 1 AGENT-DSE
+rel 2 17 -1 TARGET-DSE
+
+token Ramsamy NNP -1 ROOT o
+token also RB -1 ROOT o
+token read VBD -1 ROOT o
+token a DT -1 ROOT o
+token joint JJ -1 ROOT o
+token statement NN -1 ROOT o
+token made VBN -1 ROOT o
+token on IN -1 ROOT o
+token Thursday NNP -1 ROOT o
+token at IN -1 ROOT o
+token the DT -1 ROOT o
+token close NN -1 ROOT o
+token of IN -1 ROOT o
+token a DT -1 ROOT b-AGENT
+token meeting NN -1 ROOT m-AGENT
+token of IN -1 ROOT m-AGENT
+token SADC NNP -1 ROOT m-AGENT
+token foreign JJ -1 ROOT m-AGENT
+token and CC -1 ROOT m-AGENT
+token finance NN -1 ROOT m-AGENT
+token ministers NNS -1 ROOT e-AGENT
+token in IN -1 ROOT o
+token Blantyre NNP -1 ROOT o
+token , , -1 ROOT o
+token Malawi NNP -1 ROOT o
+token , , -1 ROOT o
+token labeling VBG -1 ROOT s-DSE
+token the DT -1 ROOT b-TARGET
+token terror NN -1 ROOT m-TARGET
+token attacks NNS -1 ROOT e-TARGET
+token ghastly JJ -1 ROOT o
+token and CC -1 ROOT o
+token barbaric JJ -1 ROOT o
+token . . -1 ROOT o
+rel 20 26 1 AGENT-DSE
+rel 26 29 -1 TARGET-DSE
+
+token `` `` -1 ROOT o
+token We PRP -1 ROOT s-AGENT
+token learned VBD -1 ROOT s-DSE
+token of IN -1 ROOT o
+token the DT -1 ROOT b-TARGET
+token attacks NNS -1 ROOT e-TARGET
+token with IN -1 ROOT o
+token great JJ -1 ROOT b-DSE
+token shock NN -1 ROOT m-DSE
+token and CC -1 ROOT m-DSE
+token sorrow NN -1 ROOT e-DSE
+token , , -1 ROOT o
+token '' '' -1 ROOT o
+token the DT -1 ROOT o
+token ministers NNS -1 ROOT o
+token said VBD -1 ROOT o
+token . . -1 ROOT o
+rel 1 2 1 AGENT-DSE
+rel 2 5 -1 TARGET-DSE
+rel 1 10 1 AGENT-DSE
+rel 5 10 1 TARGET-DSE
+
+token `` `` -1 ROOT o
+token We PRP -1 ROOT s-AGENT
+token strongly RB -1 ROOT b-DSE
+token condemn VB -1 ROOT e-DSE
+token this DT -1 ROOT b-TARGET
+token ghastly JJ -1 ROOT m-TARGET
+token and CC -1 ROOT m-TARGET
+token barbaric JJ -1 ROOT m-TARGET
+token act NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token terrorism NN -1 ROOT m-TARGET
+token and CC -1 ROOT m-TARGET
+token wanton NN -1 ROOT m-TARGET
+token destruction NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token property NN -1 ROOT m-TARGET
+token and CC -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token loss NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token innocent JJ -1 ROOT m-TARGET
+token lives NNS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 1 3 1 AGENT-DSE
+rel 3 21 -1 TARGET-DSE
+
+token Oil NNP -1 ROOT o
+token prices NNS -1 ROOT o
+token took VBD -1 ROOT o
+token a DT -1 ROOT o
+token sharp JJ -1 ROOT o
+token downward JJ -1 ROOT o
+token trend NN -1 ROOT o
+token after IN -1 ROOT o
+token the DT -1 ROOT o
+token quiet JJ -1 ROOT o
+token semi-coup JJ -1 ROOT o
+token d'etat NN -1 ROOT o
+token by IN -1 ROOT o
+token the DT -1 ROOT o
+token American JJ -1 ROOT o
+token affiliated JJ -1 ROOT o
+token Venezuelan JJ -1 ROOT o
+token army NN -1 ROOT o
+token generals NNS -1 ROOT o
+token who WP -1 ROOT o
+token deposed VBN -1 ROOT o
+token the DT -1 ROOT o
+token popularly RB -1 ROOT o
+token elected VBN -1 ROOT o
+token president NN -1 ROOT o
+token of IN -1 ROOT o
+token Venezuela NNP -1 ROOT o
+token Hugo NNP -1 ROOT o
+token Chavez NNP -1 ROOT o
+token on IN -1 ROOT o
+token Friday NNP -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT o
+token price NN -1 ROOT o
+token of IN -1 ROOT o
+token crude NN -1 ROOT o
+token had VBD -1 ROOT o
+token taken VBN -1 ROOT o
+token a DT -1 ROOT o
+token dramatic JJ -1 ROOT o
+token upsurge NN -1 ROOT o
+token in IN -1 ROOT o
+token the DT -1 ROOT o
+token aftermath NN -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token ever-deteriorating JJ -1 ROOT o
+token Middle NNP -1 ROOT o
+token East NNP -1 ROOT o
+token crisis NN -1 ROOT o
+token , , -1 ROOT o
+token the DT -1 ROOT o
+token unilateral JJ -1 ROOT o
+token cut NN -1 ROOT b-TARGET
+token off RB -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token Iraqi JJ -1 ROOT m-TARGET
+token oil NN -1 ROOT e-TARGET
+token by IN -1 ROOT o
+token Saddam NNP -1 ROOT o
+token Hussein NNP -1 ROOT o
+token and CC -1 ROOT o
+token similar JJ -1 ROOT o
+token threats NNS -1 ROOT b-DSE
+token by IN -1 ROOT e-DSE
+token several JJ -1 ROOT b-AGENT
+token other JJ -1 ROOT m-AGENT
+token oil NN -1 ROOT m-AGENT
+token producing VBG -1 ROOT m-AGENT
+token countries NNS -1 ROOT e-AGENT
+token . . -1 ROOT o
+rel 25 32 1 TARGET-DSE
+rel 32 37 -1 AGENT-DSE
+
+token The DT -1 ROOT o
+token dethroning NN -1 ROOT o
+token of IN -1 ROOT o
+token Chavez NNP -1 ROOT o
+token by IN -1 ROOT o
+token the DT -1 ROOT o
+token Americans NNPS -1 ROOT o
+token is VBZ -1 ROOT o
+token a DT -1 ROOT b-DSE
+token message NN -1 ROOT m-DSE
+token that WDT -1 ROOT e-DSE
+token disobeying VBG -1 ROOT b-TARGET
+token Uncle NNP -1 ROOT m-TARGET
+token Sam NNP -1 ROOT e-TARGET
+token would MD -1 ROOT o
+token have VB -1 ROOT o
+token cataclysmic JJ -1 ROOT o
+token consequences NNS -1 ROOT o
+token . . -1 ROOT o
+rel 10 13 -1 TARGET-DSE
+
+token The DT -1 ROOT b-AGENT
+token US NNP -1 ROOT e-AGENT
+token had VBD -1 ROOT b-DSE
+token repeatedly RB -1 ROOT m-DSE
+token asked VBN -1 ROOT e-DSE
+token Chavez NNP -1 ROOT b-TARGET
+token and CC -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token Venezuelan JJ -1 ROOT m-TARGET
+token government NN -1 ROOT m-TARGET
+token to TO -1 ROOT m-TARGET
+token increase VB -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token level NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token their PRP$ -1 ROOT m-TARGET
+token oil NN -1 ROOT m-TARGET
+token output NN -1 ROOT m-TARGET
+token as RB -1 ROOT m-TARGET
+token well RB -1 ROOT m-TARGET
+token as IN -1 ROOT m-TARGET
+token exports NNS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 1 4 1 AGENT-DSE
+rel 4 21 -1 TARGET-DSE
+
+token However RB -1 ROOT o
+token , , -1 ROOT o
+token Chavez NNP -1 ROOT s-TARGET
+token who WP -1 ROOT o
+token is VBZ -1 ROOT b-DSE
+token known VBN -1 ROOT m-DSE
+token for IN -1 ROOT e-DSE
+token his PRP$ -1 ROOT s-AGENT
+token ala NNP -1 ROOT b-DSE
+token Fidel NNP -1 ROOT m-DSE
+token Castro NNP -1 ROOT m-DSE
+token left-leaning JJ -1 ROOT m-DSE
+token anti-American JJ -1 ROOT m-DSE
+token philosophy NN -1 ROOT e-DSE
+token had VBD -1 ROOT o
+token on IN -1 ROOT o
+token a DT -1 ROOT o
+token number NN -1 ROOT o
+token of IN -1 ROOT o
+token occasions NNS -1 ROOT o
+token rebuffed VBN -1 ROOT s-DSE
+token US NNP -1 ROOT s-AGENT
+token requests NNS -1 ROOT s-DSE
+token for IN -1 ROOT o
+token more JJR -1 ROOT b-TARGET
+token oil NN -1 ROOT m-TARGET
+token exports NNS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 2 6 1 TARGET-DSE
+rel 7 13 1 AGENT-DSE
+rel 21 22 1 AGENT-DSE
+rel 22 26 -1 TARGET-DSE
+
+token The DT -1 ROOT o
+token news NN -1 ROOT o
+token leaked VBN -1 ROOT o
+token from IN -1 ROOT o
+token the DT -1 ROOT o
+token reoccupied JJ -1 ROOT o
+token Palestinian JJ -1 ROOT o
+token cities NNS -1 ROOT o
+token confirms VBZ -1 ROOT o
+token that IN -1 ROOT o
+token Israeli JJ -1 ROOT o
+token troops NNS -1 ROOT o
+token have VBP -1 ROOT o
+token committed VBN -1 ROOT o
+token dozens NNS -1 ROOT o
+token of IN -1 ROOT o
+token premeditated JJ -1 ROOT o
+token massacres NNS -1 ROOT o
+token against IN -1 ROOT o
+token the DT -1 ROOT o
+token civilian JJ -1 ROOT o
+token Palestinian JJ -1 ROOT o
+token population NN -1 ROOT o
+token . . -1 ROOT o
+
+token This DT -1 ROOT b-TARGET
+token carnage NN -1 ROOT e-TARGET
+token is VBZ -1 ROOT b-DSE
+token planned VBN -1 ROOT e-DSE
+token and CC -1 ROOT o
+token implemented VBN -1 ROOT o
+token in IN -1 ROOT o
+token compliance NN -1 ROOT o
+token with IN -1 ROOT o
+token decisions NNS -1 ROOT s-DSE
+token from IN -1 ROOT o
+token Israeli JJ -1 ROOT b-AGENT
+token field NN -1 ROOT m-AGENT
+token marshals NNS -1 ROOT e-AGENT
+token . . -1 ROOT o
+rel 1 3 1 TARGET-DSE
+rel 9 13 -1 AGENT-DSE
+
+token Israel NNP -1 ROOT b-TARGET
+token 's POS -1 ROOT m-TARGET
+token atrocities NNS -1 ROOT e-TARGET
+token are VBP -1 ROOT b-DSE
+token masterminded VBN -1 ROOT e-DSE
+token by IN -1 ROOT o
+token high JJ -1 ROOT b-AGENT
+token level JJ -1 ROOT m-AGENT
+token Israeli JJ -1 ROOT m-AGENT
+token officials NNS -1 ROOT m-AGENT
+token including VBG -1 ROOT m-AGENT
+token Shimon NNP -1 ROOT m-AGENT
+token Peres NNP -1 ROOT e-AGENT
+token . . -1 ROOT o
+rel 2 4 1 TARGET-DSE
+rel 4 12 -1 AGENT-DSE
+
+token That DT -1 ROOT o
+token 's VBZ -1 ROOT o
+token why WRB -1 ROOT o
+token they PRP -1 ROOT o
+token declared VBD -1 ROOT o
+token the DT -1 ROOT o
+token reoccupied JJ -1 ROOT o
+token Palestinian JJ -1 ROOT o
+token cities NNS -1 ROOT o
+token closed VBD -1 ROOT o
+token military JJ -1 ROOT o
+token areas NNS -1 ROOT o
+token into IN -1 ROOT o
+token which WDT -1 ROOT o
+token media NNS -1 ROOT o
+token people NNS -1 ROOT o
+token are VBP -1 ROOT o
+token not RB -1 ROOT o
+token allowed VBN -1 ROOT o
+token . . -1 ROOT o
+
+token What WP -1 ROOT o
+token happened VBD -1 ROOT o
+token in IN -1 ROOT o
+token Bosnia NNP -1 ROOT o
+token Herzegovina NNP -1 ROOT o
+token is VBZ -1 ROOT o
+token being VBG -1 ROOT o
+token repeated VBN -1 ROOT o
+token on IN -1 ROOT o
+token a DT -1 ROOT o
+token larger JJR -1 ROOT o
+token scale NN -1 ROOT o
+token in IN -1 ROOT o
+token various JJ -1 ROOT o
+token parts NNS -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token occupied JJ -1 ROOT o
+token Palestinian JJ -1 ROOT o
+token territories NNS -1 ROOT o
+token . . -1 ROOT o
+
+token People NNS -1 ROOT o
+token are VBP -1 ROOT o
+token being VBG -1 ROOT o
+token killed VBN -1 ROOT o
+token in IN -1 ROOT o
+token masses NNS -1 ROOT o
+token and CC -1 ROOT o
+token buried VBN -1 ROOT o
+token in IN -1 ROOT o
+token collective JJ -1 ROOT o
+token graves NNS -1 ROOT o
+token . . -1 ROOT o
+
+token It PRP -1 ROOT o
+token is VBZ -1 ROOT o
+token a DT -1 ROOT o
+token crime NN -1 ROOT o
+token against IN -1 ROOT o
+token humanity NN -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT o
+token Israeli JJ -1 ROOT o
+token government NN -1 ROOT o
+token is VBZ -1 ROOT o
+token committing VBG -1 ROOT o
+token crimes NNS -1 ROOT o
+token of IN -1 ROOT o
+token war NN -1 ROOT o
+token against IN -1 ROOT o
+token the DT -1 ROOT o
+token Palestinians NNPS -1 ROOT o
+token and CC -1 ROOT o
+token should MD -1 ROOT o
+token be VB -1 ROOT o
+token tried VBN -1 ROOT o
+token by IN -1 ROOT o
+token an DT -1 ROOT o
+token international JJ -1 ROOT o
+token tribunal NN -1 ROOT o
+token just RB -1 ROOT o
+token like IN -1 ROOT o
+token the DT -1 ROOT o
+token governments NNS -1 ROOT o
+token of IN -1 ROOT o
+token Rwanda NNP -1 ROOT o
+token and CC -1 ROOT o
+token former JJ -1 ROOT o
+token Yugoslavia NNS -1 ROOT o
+token . . -1 ROOT o
+
+token An DT -1 ROOT b-TARGET
+token international JJ -1 ROOT m-TARGET
+token tribunal NN -1 ROOT m-TARGET
+token for IN -1 ROOT m-TARGET
+token war NN -1 ROOT m-TARGET
+token crimes NNS -1 ROOT m-TARGET
+token has VBZ -1 ROOT m-TARGET
+token been VBN -1 ROOT m-TARGET
+token established VBN -1 ROOT m-TARGET
+token in IN -1 ROOT m-TARGET
+token Rome NNP -1 ROOT m-TARGET
+token and CC -1 ROOT m-TARGET
+token started VBN -1 ROOT m-TARGET
+token its PRP$ -1 ROOT m-TARGET
+token works NNS -1 ROOT m-TARGET
+token officially RB -1 ROOT m-TARGET
+token last JJ -1 ROOT m-TARGET
+token Thursday NNP -1 ROOT e-TARGET
+token with IN -1 ROOT o
+token the DT -1 ROOT b-DSE
+token approval NN -1 ROOT e-DSE
+token of IN -1 ROOT o
+token more JJR -1 ROOT b-AGENT
+token than IN -1 ROOT m-AGENT
+token 60 CD -1 ROOT m-AGENT
+token countries NNS -1 ROOT e-AGENT
+token . . -1 ROOT o
+rel 17 20 1 TARGET-DSE
+rel 20 25 -1 AGENT-DSE
+
+token This DT -1 ROOT o
+token tribunal NN -1 ROOT o
+token will MD -1 ROOT o
+token be VB -1 ROOT o
+token responsible JJ -1 ROOT o
+token for IN -1 ROOT o
+token trying VBG -1 ROOT o
+token war NN -1 ROOT o
+token criminals NNS -1 ROOT o
+token . . -1 ROOT o
+
+token This DT -1 ROOT o
+token means VBZ -1 ROOT o
+token we PRP -1 ROOT o
+token will MD -1 ROOT o
+token not RB -1 ROOT o
+token need VB -1 ROOT o
+token a DT -1 ROOT o
+token Security NNP -1 ROOT o
+token Council NNP -1 ROOT o
+token resolution NN -1 ROOT o
+token to TO -1 ROOT o
+token establish VB -1 ROOT o
+token the DT -1 ROOT o
+token tribunal NN -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT b-AGENT
+token world NN -1 ROOT m-AGENT
+token community NN -1 ROOT e-AGENT
+token should MD -1 ROOT o
+token not RB -1 ROOT o
+token tolerate VB -1 ROOT s-DSE
+token crimes NNS -1 ROOT b-TARGET
+token of IN -1 ROOT m-TARGET
+token war NN -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 2 5 1 AGENT-DSE
+rel 5 8 -1 TARGET-DSE
+
+token We PRP -1 ROOT s-AGENT
+token are VBP -1 ROOT b-DSE
+token waiting VBG -1 ROOT m-DSE
+token to TO -1 ROOT m-DSE
+token see VB -1 ROOT e-DSE
+token that IN -1 ROOT o
+token international JJ -1 ROOT b-TARGET
+token laws NNS -1 ROOT m-TARGET
+token are VBP -1 ROOT m-TARGET
+token not RB -1 ROOT m-TARGET
+token selective JJ -1 ROOT m-TARGET
+token and CC -1 ROOT m-TARGET
+token that IN -1 ROOT m-TARGET
+token they PRP -1 ROOT m-TARGET
+token are VBP -1 ROOT m-TARGET
+token not RB -1 ROOT m-TARGET
+token applied VBN -1 ROOT m-TARGET
+token for IN -1 ROOT m-TARGET
+token political JJ -1 ROOT m-TARGET
+token , , -1 ROOT m-TARGET
+token cultural JJ -1 ROOT m-TARGET
+token and CC -1 ROOT m-TARGET
+token ideological JJ -1 ROOT m-TARGET
+token considerations NNS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 0 4 1 AGENT-DSE
+rel 4 23 -1 TARGET-DSE
+
+token The DT -1 ROOT b-AGENT
+token public JJ -1 ROOT m-AGENT
+token opinion NN -1 ROOT m-AGENT
+token in IN -1 ROOT m-AGENT
+token the DT -1 ROOT m-AGENT
+token Arab JJ -1 ROOT m-AGENT
+token and CC -1 ROOT m-AGENT
+token Islamic JJ -1 ROOT m-AGENT
+token world NN -1 ROOT e-AGENT
+token is VBZ -1 ROOT b-DSE
+token following VBG -1 ROOT m-DSE
+token closely RB -1 ROOT e-DSE
+token what WP -1 ROOT b-TARGET
+token is VBZ -1 ROOT m-TARGET
+token happening VBG -1 ROOT m-TARGET
+token in IN -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token occupied JJ -1 ROOT m-TARGET
+token Palestinian JJ -1 ROOT m-TARGET
+token territories NNS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 8 11 1 AGENT-DSE
+rel 11 19 -1 TARGET-DSE
+
+token We PRP -1 ROOT s-AGENT
+token expect VBP -1 ROOT s-DSE
+token the DT -1 ROOT b-TARGET
+token World NNP -1 ROOT m-TARGET
+token Community NNP -1 ROOT e-TARGET
+token to TO -1 ROOT o
+token take VB -1 ROOT o
+token a DT -1 ROOT o
+token step NN -1 ROOT o
+token toward IN -1 ROOT o
+token referring VBG -1 ROOT b-TARGET
+token the DT -1 ROOT m-TARGET
+token Israeli JJ -1 ROOT m-TARGET
+token criminals NNS -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token war NN -1 ROOT e-TARGET
+token to TO -1 ROOT o
+token the DT -1 ROOT o
+token permanent JJ -1 ROOT o
+token tribunal NN -1 ROOT o
+token for IN -1 ROOT o
+token war NN -1 ROOT o
+token crimes NNS -1 ROOT o
+token . . -1 ROOT o
+rel 0 1 1 AGENT-DSE
+rel 1 4 -1 TARGET-DSE
+rel 1 15 -1 TARGET-DSE
+
+token Two CD -1 ROOT o
+token IDF NNP -1 ROOT o
+token soldiers NNS -1 ROOT o
+token were VBD -1 ROOT o
+token lightly RB -1 ROOT o
+token wounded VBN -1 ROOT o
+token in IN -1 ROOT o
+token gunfire JJ -1 ROOT o
+token exchanges NNS -1 ROOT o
+token near IN -1 ROOT o
+token the DT -1 ROOT o
+token Church NN -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token Nativity NNP -1 ROOT o
+token in IN -1 ROOT o
+token Bethlehem NNP -1 ROOT o
+token . . -1 ROOT o
+
+token They PRP -1 ROOT o
+token were VBD -1 ROOT o
+token evacuated VBN -1 ROOT o
+token to TO -1 ROOT o
+token Jerusalem NNP -1 ROOT o
+token 's POS -1 ROOT o
+token Hadassah-En NNP -1 ROOT o
+token Kerem NNP -1 ROOT o
+token Hospital NNP -1 ROOT o
+token . . -1 ROOT o
+
+token Sources NNS -1 ROOT o
+token in IN -1 ROOT o
+token Bethlehem NNP -1 ROOT o
+token reported VBD -1 ROOT o
+token that IN -1 ROOT o
+token the DT -1 ROOT o
+token IDF NNP -1 ROOT o
+token has VBZ -1 ROOT o
+token occupied VBD -1 ROOT o
+token the DT -1 ROOT o
+token Palace NNP -1 ROOT o
+token Hotel NNP -1 ROOT o
+token at IN -1 ROOT o
+token the DT -1 ROOT o
+token outskirts NNS -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token Church NN -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token Nativity NNP -1 ROOT o
+token compound NN -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT o
+token Palestinians NNPS -1 ROOT o
+token also RB -1 ROOT o
+token reported VBD -1 ROOT o
+token that IN -1 ROOT o
+token the DT -1 ROOT o
+token IDF NNP -1 ROOT o
+token has VBZ -1 ROOT o
+token entered VBN -1 ROOT o
+token the DT -1 ROOT o
+token village NN -1 ROOT o
+token of IN -1 ROOT o
+token Ubaydiyah NNP -1 ROOT o
+token east NNP -1 ROOT o
+token of IN -1 ROOT o
+token Bethlehem NNP -1 ROOT o
+token and CC -1 ROOT o
+token is VBZ -1 ROOT o
+token conducting VBG -1 ROOT o
+token searches NNS -1 ROOT o
+token and CC -1 ROOT o
+token arrests NNS -1 ROOT o
+token there RB -1 ROOT o
+token . . -1 ROOT o
+
+token Military JJ -1 ROOT o
+token threat NN -1 ROOT o
+token persists VBZ -1 ROOT o
+token after IN -1 ROOT o
+token events NNS -1 ROOT o
+token in IN -1 ROOT o
+token Venezuela NNP -1 ROOT o
+token , , -1 ROOT o
+token Spanish NNP -1 ROOT o
+token daily RB -1 ROOT o
+token says VBZ -1 ROOT o
+
+token Debatable JJ -1 ROOT o
+token decisions NNS -1 ROOT s-DSE
+token of IN -1 ROOT o
+token his PRP$ -1 ROOT o
+token have VBP -1 ROOT o
+token caused VBN -1 ROOT o
+token a DT -1 ROOT o
+token deep JJ -1 ROOT o
+token social JJ -1 ROOT o
+token polarization NN -1 ROOT o
+token and CC -1 ROOT o
+token brought VBN -1 ROOT o
+token him PRP -1 ROOT o
+token into IN -1 ROOT o
+token confrontation NN -1 ROOT o
+token with IN -1 ROOT o
+token representative JJ -1 ROOT o
+token sectors NNS -1 ROOT o
+token of IN -1 ROOT o
+token civil JJ -1 ROOT o
+token society NN -1 ROOT o
+token , , -1 ROOT o
+token against IN -1 ROOT o
+token which WDT -1 ROOT o
+token he PRP -1 ROOT o
+token used VBD -1 ROOT o
+token more JJR -1 ROOT o
+token demagogy NN -1 ROOT o
+token than IN -1 ROOT o
+token arguments NNS -1 ROOT o
+token . . -1 ROOT o
+
+token But CC -1 ROOT o
+token the DT -1 ROOT o
+token latest JJS -1 ROOT o
+token events NNS -1 ROOT o
+token reveal VBP -1 ROOT o
+token that IN -1 ROOT o
+token his PRP$ -1 ROOT o
+token popularity NN -1 ROOT o
+token had VBD -1 ROOT o
+token not RB -1 ROOT o
+token collapsed VBN -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT o
+token coup NN -1 ROOT o
+token misjudged VBD -1 ROOT o
+token its PRP$ -1 ROOT o
+token strength NN -1 ROOT o
+token and CC -1 ROOT o
+token Carmona NNP -1 ROOT o
+token remaining VBG -1 ROOT o
+token in IN -1 ROOT o
+token power NN -1 ROOT o
+token could MD -1 ROOT o
+token have VB -1 ROOT o
+token led VBN -1 ROOT o
+token to TO -1 ROOT o
+token a DT -1 ROOT o
+token serious JJ -1 ROOT o
+token division NN -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token armed JJ -1 ROOT o
+token forces NNS -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT o
+token civilian JJ -1 ROOT o
+token opposition NN -1 ROOT o
+token , , -1 ROOT o
+token which WDT -1 ROOT o
+token in IN -1 ROOT o
+token the DT -1 ROOT o
+token absence NN -1 ROOT o
+token of IN -1 ROOT o
+token political JJ -1 ROOT o
+token parties NNS -1 ROOT o
+token was VBD -1 ROOT o
+token organized VBN -1 ROOT o
+token around IN -1 ROOT o
+token the DT -1 ROOT o
+token employers NNS -1 ROOT o
+token ' POS -1 ROOT o
+token organization NN -1 ROOT o
+token and CC -1 ROOT o
+token the DT -1 ROOT o
+token trade NN -1 ROOT o
+token unions NNS -1 ROOT o
+token , , -1 ROOT o
+token does VBZ -1 ROOT o
+token not RB -1 ROOT o
+token come VB -1 ROOT o
+token out RP -1 ROOT o
+token of IN -1 ROOT o
+token it PRP -1 ROOT o
+token well RB -1 ROOT o
+token either DT -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT b-AGENT
+token South NNP -1 ROOT m-AGENT
+token African JJ -1 ROOT m-AGENT
+token team NN -1 ROOT e-AGENT
+token described VBD -1 ROOT s-DSE
+token the DT -1 ROOT b-TARGET
+token election NN -1 ROOT e-TARGET
+token as IN -1 ROOT o
+token `` `` -1 ROOT o
+token legitimate JJ -1 ROOT o
+token '' '' -1 ROOT o
+token while IN -1 ROOT o
+token the DT -1 ROOT b-AGENT
+token Nigerian NNP -1 ROOT m-AGENT
+token observers NNS -1 ROOT e-AGENT
+token said VBD -1 ROOT s-DSE
+token they PRP -1 ROOT o
+token had VBD -1 ROOT o
+token seen VBN -1 ROOT o
+token nothing NN -1 ROOT o
+token that WDT -1 ROOT o
+token threatened VBD -1 ROOT b-TARGET
+token the DT -1 ROOT m-TARGET
+token integrity NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token poll NN -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 3 4 1 AGENT-DSE
+rel 4 6 -1 TARGET-DSE
+rel 14 15 1 AGENT-DSE
+rel 15 26 -1 TARGET-DSE
+
+token The DT -1 ROOT b-AGENT
+token Commonwealth NNP -1 ROOT m-AGENT
+token trio NN -1 ROOT e-AGENT
+token to TO -1 ROOT b-DSE
+token decide VB -1 ROOT e-DSE
+token on IN -1 ROOT o
+token action NN -1 ROOT s-TARGET
+token next JJ -1 ROOT o
+token week NN -1 ROOT o
+token is VBZ -1 ROOT o
+token made VBN -1 ROOT o
+token up RP -1 ROOT o
+token of IN -1 ROOT o
+token Australia NNP -1 ROOT s-AGENT
+token , , -1 ROOT o
+token which WDT -1 ROOT o
+token will MD -1 ROOT b-DSE
+token back VB -1 ROOT e-DSE
+token suspension NN -1 ROOT s-TARGET
+token , , -1 ROOT o
+token the DT -1 ROOT o
+token South NNP -1 ROOT o
+token African NNP -1 ROOT o
+token leader NN -1 ROOT o
+token , , -1 ROOT o
+token Thabo NNP -1 ROOT o
+token Mbeki NNP -1 ROOT o
+token , , -1 ROOT o
+token and CC -1 ROOT o
+token the DT -1 ROOT o
+token Nigerian JJ -1 ROOT o
+token president NN -1 ROOT o
+token , , -1 ROOT o
+token Olusegun NNP -1 ROOT o
+token Obasanjo NNP -1 ROOT o
+token . . -1 ROOT o
+rel 2 4 1 AGENT-DSE
+rel 4 6 -1 TARGET-DSE
+rel 13 17 1 AGENT-DSE
+rel 17 18 -1 TARGET-DSE
+
+token In IN -1 ROOT o
+token Zimbabwe NNP -1 ROOT o
+token the DT -1 ROOT b-AGENT
+token leadership NN -1 ROOT m-AGENT
+token of IN -1 ROOT m-AGENT
+token the DT -1 ROOT m-AGENT
+token congress NN -1 ROOT m-AGENT
+token of IN -1 ROOT m-AGENT
+token trade NN -1 ROOT m-AGENT
+token unions NNS -1 ROOT e-AGENT
+token is VBZ -1 ROOT b-DSE
+token considering VBG -1 ROOT e-DSE
+token calling VBG -1 ROOT b-TARGET
+token a DT -1 ROOT m-TARGET
+token two-day JJ -1 ROOT m-TARGET
+token general JJ -1 ROOT m-TARGET
+token strike NN -1 ROOT e-TARGET
+token to TO -1 ROOT o
+token test VB -1 ROOT o
+token whether IN -1 ROOT o
+token there EX -1 ROOT o
+token would MD -1 ROOT o
+token be VB -1 ROOT o
+token popular JJ -1 ROOT b-DSE
+token support NN -1 ROOT m-DSE
+token for IN -1 ROOT e-DSE
+token a DT -1 ROOT b-TARGET
+token longer JJR -1 ROOT m-TARGET
+token protest NN -1 ROOT e-TARGET
+token , , -1 ROOT o
+token and CC -1 ROOT o
+token various JJ -1 ROOT o
+token civil JJ -1 ROOT o
+token rights NNS -1 ROOT o
+token groups NNS -1 ROOT o
+token are VBP -1 ROOT o
+token meeting VBG -1 ROOT o
+token today NN -1 ROOT o
+token to TO -1 ROOT o
+token discuss VB -1 ROOT o
+token mass JJ -1 ROOT o
+token civil JJ -1 ROOT o
+token disobedience NN -1 ROOT o
+token . . -1 ROOT o
+rel 9 11 1 AGENT-DSE
+rel 11 16 -1 TARGET-DSE
+rel 25 28 -1 TARGET-DSE
+

@@ -1,0 +1,108 @@
+token Hospital NNP -1 ROOT e-AGENT
+token said VBD -1 ROOT o
+token it PRP -1 ROOT o
+token would MD -1 ROOT b-DSE
+token probably RB -1 ROOT m-DSE
+token know VB -1 ROOT e-DSE
+token by IN -1 ROOT o
+token Tuesday NNP -1 ROOT o
+token whether IN -1 ROOT b-TARGET
+token one CD -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token its PRP$ -1 ROOT m-TARGET
+token patients NNS -1 ROOT m-TARGET
+token had VBD -1 ROOT m-TARGET
+token Congo NNP -1 ROOT m-TARGET
+token Fever NNP -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 3 8 1 AGENT-DSE
+rel 8 18 -1 TARGET-DSE
+
+token The DT -1 ROOT b-AGENT
+token public JJ -1 ROOT m-AGENT
+token opinion NN -1 ROOT m-AGENT
+token in IN -1 ROOT m-AGENT
+token the DT -1 ROOT m-AGENT
+token Arab JJ -1 ROOT m-AGENT
+token and CC -1 ROOT m-AGENT
+token Islamic JJ -1 ROOT m-AGENT
+token world NN -1 ROOT e-AGENT
+token is VBZ -1 ROOT b-DSE
+token following VBG -1 ROOT m-DSE
+token closely RB -1 ROOT e-DSE
+token what WP -1 ROOT b-TARGET
+token is VBZ -1 ROOT m-TARGET
+token happening VBG -1 ROOT m-TARGET
+token in IN -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token occupied JJ -1 ROOT m-TARGET
+token Palestinian JJ -1 ROOT m-TARGET
+token territories NNS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 8 11 1 AGENT-DSE
+rel 11 19 -1 TARGET-DSE
+
+token Ramsamy NNP -1 ROOT s-AGENT
+token also RB -1 ROOT o
+token condemned VBD -1 ROOT s-DSE
+token last JJ -1 ROOT b-TARGET
+token Tuesday NNP -1 ROOT m-TARGET
+token 's POS -1 ROOT m-TARGET
+token terror NN -1 ROOT m-TARGET
+token attacks NNS -1 ROOT m-TARGET
+token in IN -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token United NNP -1 ROOT m-TARGET
+token States NNPS -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 0 2 1 AGENT-DSE
+rel 2 11 -1 TARGET-DSE
+
+token `` `` -1 ROOT o
+token The DT -1 ROOT b-AGENT
+token SADC NNP -1 ROOT m-AGENT
+token secretariat NN -1 ROOT e-AGENT
+token condemns VBZ -1 ROOT b-DSE
+token unreservedly RB -1 ROOT m-DSE
+token and CC -1 ROOT m-DSE
+token in IN -1 ROOT m-DSE
+token the DT -1 ROOT m-DSE
+token strongest JJS -1 ROOT m-DSE
+token terms NNS -1 ROOT e-DSE
+token this DT -1 ROOT b-TARGET
+token act NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token terrorism NN -1 ROOT e-TARGET
+token , , -1 ROOT o
+token '' '' -1 ROOT o
+token he PRP -1 ROOT o
+token said VBD -1 ROOT o
+token . . -1 ROOT o
+rel 3 10 1 AGENT-DSE
+rel 10 14 -1 TARGET-DSE
+
+token Replying VBG -1 ROOT o
+token , , -1 ROOT o
+token Lange NNP -1 ROOT s-AGENT
+token said VBD -1 ROOT s-DSE
+token : : -1 ROOT o
+token `` `` -1 ROOT o
+token The DT -1 ROOT o
+token day NN -1 ROOT o
+token September NNP -1 ROOT o
+token 11 CD -1 ROOT o
+token , , -1 ROOT o
+token 2001 CD -1 ROOT o
+token has VBZ -1 ROOT o
+token become VBN -1 ROOT o
+token one CD -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token worst JJS -1 ROOT o
+token days NNS -1 ROOT o
+token in IN -1 ROOT o
+token American JJ -1 ROOT o
+token history NN -1 ROOT o
+token . . -1 ROOT o
+rel 2 3 1 AGENT-DSE
+

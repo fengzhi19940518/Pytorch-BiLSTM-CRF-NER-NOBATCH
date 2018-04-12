@@ -1,0 +1,308 @@
+token The DT -1 ROOT o
+token owner NN -1 ROOT o
+token put VBD -1 ROOT o
+token down RP -1 ROOT o
+token the DT -1 ROOT o
+token animal NN -1 ROOT o
+token , , -1 ROOT o
+token although IN -1 ROOT o
+token the DT -1 ROOT b-AGENT
+token vet NN -1 ROOT e-AGENT
+token had VBD -1 ROOT b-DSE
+token forbidden VBN -1 ROOT e-DSE
+token him PRP -1 ROOT b-TARGET
+token to TO -1 ROOT m-TARGET
+token do VB -1 ROOT m-TARGET
+token so RB -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 9 11 1 AGENT-DSE
+rel 11 15 -1 TARGET-DSE
+
+token A DT -1 ROOT o
+token cow NN -1 ROOT o
+token grazing NN -1 ROOT o
+token near IN -1 ROOT o
+token the DT -1 ROOT o
+token village NN -1 ROOT o
+token of IN -1 ROOT o
+token Meresti NNP -1 ROOT o
+token -LRB- -LRB- -1 ROOT o
+token Harghita NNP -1 ROOT o
+token County NNP -1 ROOT o
+token -RRB- -RRB- -1 ROOT o
+token was VBD -1 ROOT o
+token bitten VBN -1 ROOT o
+token by IN -1 ROOT o
+token a DT -1 ROOT o
+token fox NN -1 ROOT o
+token suffering VBG -1 ROOT o
+token from IN -1 ROOT o
+token rabies NNP -1 ROOT o
+token . . -1 ROOT o
+
+token The DT -1 ROOT b-AGENT
+token formerly RB -1 ROOT m-AGENT
+token close JJ -1 ROOT m-AGENT
+token allies NNS -1 ROOT e-AGENT
+token fell VBD -1 ROOT b-DSE
+token out RP -1 ROOT e-DSE
+token in IN -1 ROOT o
+token 1999 CD -1 ROOT o
+token , , -1 ROOT o
+token the DT -1 ROOT o
+token year NN -1 ROOT o
+token after IN -1 ROOT o
+token each DT -1 ROOT s-TARGET
+token sent VBD -1 ROOT o
+token troops NNS -1 ROOT o
+token to TO -1 ROOT o
+token back VB -1 ROOT o
+token rebel JJ -1 ROOT o
+token movements NNS -1 ROOT o
+token in IN -1 ROOT o
+token the DT -1 ROOT o
+token neighbouring VBG -1 ROOT o
+token Democratic JJ -1 ROOT o
+token Republic NN -1 ROOT o
+token of IN -1 ROOT o
+token Congo NNP -1 ROOT o
+token , , -1 ROOT o
+token when WRB -1 ROOT o
+token mounting VBG -1 ROOT b-DSE
+token rivalry NN -1 ROOT e-DSE
+token lead VBP -1 ROOT o
+token to TO -1 ROOT o
+token violent JJ -1 ROOT o
+token clashes NNS -1 ROOT o
+token between IN -1 ROOT o
+token their PRP$ -1 ROOT o
+token own JJ -1 ROOT o
+token armies NNS -1 ROOT o
+token there RB -1 ROOT o
+token . . -1 ROOT o
+rel 3 5 1 AGENT-DSE
+rel 5 12 -1 TARGET-DSE
+rel 3 29 1 AGENT-DSE
+
+token As IN -1 ROOT o
+token a DT -1 ROOT o
+token consequence NN -1 ROOT o
+token , , -1 ROOT o
+token the DT -1 ROOT o
+token cow NN -1 ROOT o
+token was VBD -1 ROOT o
+token infected VBN -1 ROOT o
+token as RB -1 ROOT o
+token well RB -1 ROOT o
+token . . -1 ROOT o
+
+token This DT -1 ROOT o
+token is VBZ -1 ROOT o
+token the DT -1 ROOT o
+token first JJ -1 ROOT o
+token such JJ -1 ROOT o
+token case NN -1 ROOT o
+token here RB -1 ROOT o
+token , , -1 ROOT o
+token and CC -1 ROOT o
+token the DT -1 ROOT o
+token third JJ -1 ROOT o
+token one NN -1 ROOT o
+token since IN -1 ROOT o
+token 1999 CD -1 ROOT o
+token . . -1 ROOT o
+
+token In IN -1 ROOT o
+token March NNP -1 ROOT o
+token , , -1 ROOT o
+token Uganda NNP -1 ROOT s-AGENT
+token declared VBD -1 ROOT s-DSE
+token Rwanda VBG -1 ROOT s-TARGET
+token a DT -1 ROOT o
+token hostile JJ -1 ROOT o
+token nation NN -1 ROOT o
+token because RB -1 ROOT o
+token of IN -1 ROOT o
+token tensions NNS -1 ROOT o
+token arising VBG -1 ROOT o
+token from IN -1 ROOT o
+token Kigali NNP -1 ROOT s-TARGET
+token 's POS -1 ROOT o
+token alleged JJ -1 ROOT s-DSE
+token support NN -1 ROOT s-DSE
+token for IN -1 ROOT o
+token a DT -1 ROOT b-TARGET
+token rival NN -1 ROOT m-TARGET
+token to TO -1 ROOT m-TARGET
+token Museveni NNP -1 ROOT m-TARGET
+token in IN -1 ROOT m-TARGET
+token a DT -1 ROOT m-TARGET
+token presidential JJ -1 ROOT m-TARGET
+token election NN -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 3 4 1 AGENT-DSE
+rel 4 5 -1 TARGET-DSE
+rel 14 16 1 TARGET-DSE
+rel 17 26 -1 TARGET-DSE
+
+token The DT -1 ROOT o
+token two CD -1 ROOT o
+token countries NNS -1 ROOT o
+token have VBP -1 ROOT b-DSE
+token each DT -1 ROOT m-DSE
+token accused VBN -1 ROOT e-DSE
+token the DT -1 ROOT b-TARGET
+token other JJ -1 ROOT e-TARGET
+token of IN -1 ROOT o
+token backing NN -1 ROOT s-DSE
+token dissidents NNS -1 ROOT s-TARGET
+token . . -1 ROOT o
+rel 5 7 -1 TARGET-DSE
+rel 9 10 -1 TARGET-DSE
+
+token The DT -1 ROOT o
+token bulk NN -1 ROOT o
+token of IN -1 ROOT o
+token the DT -1 ROOT o
+token weapons NNS -1 ROOT o
+token have VBP -1 ROOT o
+token arrived VBN -1 ROOT o
+token from IN -1 ROOT o
+token the DT -1 ROOT o
+token DRC NNP -1 ROOT o
+token in IN -1 ROOT o
+token that DT -1 ROOT o
+token country NN -1 ROOT o
+token 's POS -1 ROOT o
+token military JJ -1 ROOT o
+token cargo NN -1 ROOT o
+token plane NN -1 ROOT o
+token . . -1 ROOT o
+
+token Virtually RB -1 ROOT b-AGENT
+token all DT -1 ROOT m-AGENT
+token European NNP -1 ROOT m-AGENT
+token Union NNP -1 ROOT m-AGENT
+token member NN -1 ROOT m-AGENT
+token states NNS -1 ROOT e-AGENT
+token have VBP -1 ROOT b-DSE
+token severed VBN -1 ROOT m-DSE
+token ties NNS -1 ROOT e-DSE
+token with IN -1 ROOT o
+token Zimbabwe NNP -1 ROOT s-TARGET
+token and CC -1 ROOT o
+token imposed VBN -1 ROOT o
+token an DT -1 ROOT o
+token arms NNS -1 ROOT o
+token embargo NN -1 ROOT o
+token on IN -1 ROOT o
+token the DT -1 ROOT o
+token country NN -1 ROOT o
+token . . -1 ROOT o
+rel 5 8 1 AGENT-DSE
+rel 8 10 -1 TARGET-DSE
+
+token Defense NNP -1 ROOT b-AGENT
+token Minister NNP -1 ROOT m-AGENT
+token Sydney NNP -1 ROOT m-AGENT
+token Sekeramayi NNP -1 ROOT e-AGENT
+token declined VBD -1 ROOT b-DSE
+token to TO -1 ROOT m-DSE
+token comment VB -1 ROOT m-DSE
+token on IN -1 ROOT e-DSE
+token the DT -1 ROOT o
+token allegations NNS -1 ROOT s-DSE
+token of IN -1 ROOT o
+token sanctions NNS -1 ROOT b-TARGET
+token busting VBG -1 ROOT m-TARGET
+token and CC -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token massing NN -1 ROOT m-TARGET
+token of IN -1 ROOT m-TARGET
+token guns NNS -1 ROOT m-TARGET
+token at IN -1 ROOT m-TARGET
+token army NN -1 ROOT m-TARGET
+token bases NNS -1 ROOT m-TARGET
+token around IN -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token country NN -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 3 7 1 AGENT-DSE
+rel 9 23 -1 TARGET-DSE
+
+token `` `` -1 ROOT o
+token Just RB -1 ROOT o
+token avoid VB -1 ROOT o
+token that DT -1 ROOT o
+token one NN -1 ROOT o
+token for IN -1 ROOT o
+token now RB -1 ROOT o
+token . . -1 ROOT o
+
+token I PRP -1 ROOT s-AGENT
+token am VBP -1 ROOT b-DSE
+token not RB -1 ROOT m-DSE
+token going VBG -1 ROOT m-DSE
+token to TO -1 ROOT m-DSE
+token comment VB -1 ROOT e-DSE
+token on IN -1 ROOT o
+token that DT -1 ROOT o
+token one NN -1 ROOT o
+token , , -1 ROOT o
+token '' '' -1 ROOT o
+token Sekeramayi NNP -1 ROOT o
+token said VBD -1 ROOT o
+token yesterday NN -1 ROOT o
+token before IN -1 ROOT o
+token immediately RB -1 ROOT o
+token cutting VBG -1 ROOT o
+token off RP -1 ROOT o
+token his PRP$ -1 ROOT o
+token telephone NN -1 ROOT o
+token . . -1 ROOT o
+rel 0 5 1 AGENT-DSE
+
+token They PRP -1 ROOT o
+token said VBD -1 ROOT o
+token they PRP -1 ROOT s-AGENT
+token did VBD -1 ROOT b-DSE
+token not RB -1 ROOT m-DSE
+token know VB -1 ROOT m-DSE
+token whether IN -1 ROOT e-DSE
+token this DT -1 ROOT b-TARGET
+token was VBD -1 ROOT m-TARGET
+token the DT -1 ROOT m-TARGET
+token case NN -1 ROOT m-TARGET
+token with IN -1 ROOT m-TARGET
+token Zimbabwe NNP -1 ROOT e-TARGET
+token . . -1 ROOT o
+rel 2 6 1 AGENT-DSE
+rel 6 12 -1 TARGET-DSE
+
+token `` `` -1 ROOT o
+token In IN -1 ROOT o
+token Africa NNP -1 ROOT o
+token , , -1 ROOT o
+token we PRP -1 ROOT o
+token have VBP -1 ROOT o
+token military JJ -1 ROOT o
+token relationships NNS -1 ROOT o
+token with IN -1 ROOT o
+token many JJ -1 ROOT o
+token countries NNS -1 ROOT o
+token . . -1 ROOT o
+
+token We PRP -1 ROOT o
+token have VBP -1 ROOT o
+token , , -1 ROOT o
+token for IN -1 ROOT o
+token instance NN -1 ROOT o
+token , , -1 ROOT o
+token sold VBN -1 ROOT o
+token arms NNS -1 ROOT o
+token to TO -1 ROOT o
+token many JJ -1 ROOT o
+token French-speaking JJ -1 ROOT o
+token countries NNS -1 ROOT o
+token . . -1 ROOT o
+
